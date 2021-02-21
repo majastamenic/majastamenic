@@ -6,5 +6,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majastamenic&show_icons=true&theme=vue)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majastamenic)](https://github.com/majastamenic/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majastamenic&show_icons=true&theme=vue)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majastamenic)](https://github.com/majastamenic/github-readme-stats)
 
