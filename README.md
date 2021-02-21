@@ -1,4 +1,4 @@
-![alt text](hhttps://github.com/majastamenic/majastamenic/blob/main/hello.PNG?raw=true)
+![alt text](https://github.com/majastamenic/majastamenic/blob/main/hello.png?raw=true)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maja-stamenic-a47022207/">Linkedin</a> •
